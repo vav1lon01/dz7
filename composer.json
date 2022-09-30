@@ -1,0 +1,17 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Dz\\" : "src"
+    }
+  },
+  "config": {
+    "platform": {
+      "php": "7.4"
+    }
+  },
+  "require": {
+    "illuminate/database": "^8.83",
+    "illuminate/events": "^8.83",
+    "illuminate/view": "^8.83"
+  }
+}
